@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
-public class GoogleTest extends SpringBaseTestNg {
+public class GoogleTest1 extends SpringBaseTestNg {
 
     @Autowired
     private GooglePage googlePage;
